@@ -1,2 +1,2 @@
 # flutterPratica
-Curnso básico de dartFlutter 
+Curso básico de dartFlutter 
